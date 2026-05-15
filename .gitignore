@@ -1,0 +1,13 @@
+.env
+*.env
+*.pgpass
+connection.txt
+*.csv
+*.xlsx
+data/raw/
+data/exports/
+.dbeaver/
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
